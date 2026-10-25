@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-groq
+chromadb
+sentence-transformers
+sqlalchemy
+pandas
+pydantic
+python-dotenv
+requests
+schedule
